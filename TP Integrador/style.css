@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .nav-container {
+    background-color: #353a40;
+  } 
+  
+  .cac {
+    width: 110px;
+  }
+
+  a {
+    font-size: 1.05rem !important;
+  }
+
+  .conf-BsAs {
+    font-size: 1.4rem !important;
+  }
+
+  ul {
+    border-radius: 30px;
+    padding: 0px;
+  }
+
+  li {
+    text-decoration: none !important;
+  }
+  
+  .secondary-links {
+    color: grey !important;
+  }
+  
+  .tickets-link {
+    color: #27a442 !important;
+  }
+
+  .carousel-size {
+    height: calc(100vh - 79px) !important;
+  }
+  
+  .carousel-size img {
+    filter: brightness(58%);
+    position: absolute;
+    overflow: hidden;
+    top: -130px;
+    width: 100vw;
+  }
+
+  .btn-success {
+    background-color: #29a744 !important;
+  }
+  
+  .card {
+    width: 200px !important;
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.265);
+    border-radius: 15px;
+  }
+  
+  .badge-padding {
+    padding-top: 2px !important;
+  }
+  
+  .landscape {
+    width: 100%;
+    padding: 0 !important;
+    background-color: #353a40;
+  }
+
+  .landscape-info {
+    height: 400px;
+  }
+  
+  .landscape-title-info {
+    margin: 15px;
+    font-weight: 500;
+    color: white;
+  }
+  
+  .landscape-paragraph-info {
+    margin: 15px;
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 200;
+  }
+  
+  .register-container {
+    width: 700px !important;
+  }
+  
+  .ignite {
+    cursor: pointer;
+  }
+  
+  u {
+    color: black;
+    text-decoration: underline dotted black !important;
+  }
+  
+  .send-button {
+    background-color: #96c93e !important;
+    border: 1px solid #96c93e !important;
+  }
+  
+  footer {
+    height: 80px;
+    background-image: linear-gradient(to right, #1c3643, #1d5271);
+  }
+  
+  .footer-links {
+    font-size: 0.9rem !important;
+    text-decoration: none;
+    transition-duration: 0.3s;
+  }
